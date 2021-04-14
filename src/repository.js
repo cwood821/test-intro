@@ -15,7 +15,7 @@ class FileRepository {
    * @param todos { title: string, status: string }[]
    */
   store(todos) {
-    let formatted = this.formatter.format(todos);
+    let formatted = formatter(todos);
     writeFileSync(path, formatted);
   }
 
