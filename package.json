@@ -1,0 +1,24 @@
+{
+  "name": "test-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "test:watch": "./node_modules/.bin/jest --watch",
+    "test:coverage": "./node_modules/.bin/jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwood821/test-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwood821/test-intro/issues"
+  },
+  "homepage": "https://github.com/cwood821/test-intro#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
