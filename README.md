@@ -6,12 +6,14 @@ This the beginning of a todo list program. Users want to be able to store todos 
 1) Use test-driven development to implement the formatter functions 
 <details>
 <summary>Reflection</summary>
-- Run a [code coverage](https://en.wikipedia.org/wiki/Code_coverage) report with `npm run test:coverage` and look at the output. What is your code coverage percentage for functions and statements? Why?
+  <br>
+  - Run a (code coverage)[https://en.wikipedia.org/wiki/Code_coverage] report with `npm run test:coverage` and look at the output. What is your code coverage percentage for functions and statements? Why?
 </details>
 
 2) Write tests to cover the functionality of the file repository 
 <details>
 <summary>Reflection</summary>
+  <br>
 - Was it hard to write tests for the file repository?
 - If so, what made it hard?
 - How might the class be changed?
