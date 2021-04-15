@@ -7,16 +7,15 @@ This the beginning of a todo list program. Users want to be able to store todos 
 <details>
 <summary>Reflection</summary>
   <br>
-  - Run a (code coverage)[https://en.wikipedia.org/wiki/Code_coverage] report with `npm run test:coverage` and look at the output. What is your code coverage percentage for functions and statements? Why?
+  Run a <a href="https://en.wikipedia.org/wiki/Code_coverage">code coverage</a> report with `npm run test:coverage` and look at the output. What is your code coverage percentage for functions and statements? Why?
 </details>
 
 2) Write tests to cover the functionality of the file repository 
 <details>
 <summary>Reflection</summary>
   <br>
-- Was it hard to write tests for the file repository?
-- If so, what made it hard?
-- How might the class be changed?
+  Was it hard to write tests for the file repository? Why?
+  How might the class be changed to make it less difficult?
 </details>
 
 ## Scenarios 
