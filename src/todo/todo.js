@@ -22,11 +22,11 @@ class Todo {
   }
 
   getTitle() {
-
+    return this.title;
   }
 
   getStatus() {
-
+    return this.status;
   }
 
 } 
