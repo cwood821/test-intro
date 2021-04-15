@@ -20,5 +20,5 @@ This the beginning of a todo list program. Users want to be able to store todos 
 
 ## Scenarios 
 - Users want to store their todos in a CSV file. How should we implement that functionality?
-- Users want to save their todos to a service with that has a REST API. How should we implement that functionality?
+- Users want to save their todos to a service which has a [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer). How should we implement that functionality?
 - Users want a to mark a todo as in-progress. How should we implement that?
