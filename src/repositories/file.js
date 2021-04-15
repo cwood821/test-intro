@@ -1,12 +1,13 @@
 let { writeFileSync } = require("fs");
 
-class FileRepository {
+class FileRepository extends Repository {
 
   /**
    * @param path string 
    * @param formatter Formatter 
    */
   constructor(path, formatter) {
+    super();
     this.path = path;
     this.formatter = formatter;
   }
